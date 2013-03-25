@@ -1,0 +1,5 @@
+Flask==0.9
+
+# These are just niceties...
+ipython==0.13.1
+pudb==2013.1
