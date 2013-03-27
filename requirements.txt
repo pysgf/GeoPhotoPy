@@ -1,4 +1,6 @@
 Flask==0.9
+gpxpy==0.8.7
+lxml==3.1.0
 
 # These are just niceties...
 ipython==0.13.1
